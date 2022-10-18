@@ -1,0 +1,11 @@
+.validation{
+    background-image: url(../images/bg-validation.png) ;
+    background-repeat:repeat ;
+    background-size: cover; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+
+}
