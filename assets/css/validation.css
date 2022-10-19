@@ -7,5 +7,49 @@
     left: 0;
     height: 100%;
     width: 100%;
+    color:white;
+    padding:0px;
+}
+.validation .content {
+    width: 85%;
+    margin: auto;
+} 
+.validation .content span {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+}
+.validation .content h1 {
+    font-weight: 300;
+    margin: 50px 0 0;
+}
+.validation .content strong {
+    font-weight: 300;
+}
+.validation .content img {
+    display: block;
+    margin: 0 auto;
+    width: 215px;
+}
+.validation .content p{
+    font-size: 11px;
+    width: 180px;
+}
+
+.validation form {
+    width: 85%;
+    margin: 0px auto;
+    position: absolute;
+    bottom: 50px;
+    left: 20px;
+}
+.validation form button {
+    width: 150px;
+    margin: 10px auto;
+    display: block;
+    background-color: #00A8EC;
+    color: white;
+    height: 35px;
+    border-radius: 40px;
 
 }
